@@ -2,11 +2,11 @@
     "homepage": "https://github.com/weloveloli/AVOne",
     "license": "GPL-3.0-only",
     "description": "Package Description",
-    "version": "0.0.5",
+    "version": "0.0.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/weloveloli/AVOne/releases/download/tool-0.0.5/AVOneTool.0.0.5.win-x64.zip",
-            "hash": "c59213847c3872073a8d02fd03e52cd04415f980173b88ebc02eab84d013b4df"
+            "url": "https://github.com/weloveloli/AVOne/releases/download/tool-0.0.7/AVOneTool.0.0.7.win-x64.zip",
+            "hash": "f990129b348e88db349643918f2e6f5ae895bd7f2186424669aca2f464796413"
         }
     },
     "bin": "AVOneTool.exe"
